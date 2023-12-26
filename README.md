@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tushar-singh-varanasi
 - 👀 I’m interested in Backend development 
-- 🌱 I’m currently learning Ai
+- 🌱 I’m currently learning tach
 - 💞️ I’m looking to collaborate on SaaS project 
 - 📫 How to reach me ...tusharthakur0089@gmail.com 
 
